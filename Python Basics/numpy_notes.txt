@@ -1,0 +1,5 @@
+NumPy - Numerical Python
+- Main feature of NumPy is 'n'-Dimensional Array
+- It is faster than Python Lists
+- More Memory Efficient
+- Optimized for Mathematical Operations

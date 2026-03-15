@@ -1,0 +1,4 @@
+Pandas
+- Used for data manipulation & analysis
+- Advanced version of Excel
+- Uses DataFrame : Spreadsheet like Data Structure
